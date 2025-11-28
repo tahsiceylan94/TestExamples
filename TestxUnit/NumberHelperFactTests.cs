@@ -8,12 +8,14 @@ public class NumberHelperFactTests
     public static IList<object[]> TestNumbers = new List<object[]>()
     {
         new object[]{4,5,6},
-        new object[]{7,8,9}
+        new object[]{7,8,9},
+        new object[]{6,9,8}
     };
     [Fact]
     public void IsOddNumber_ValueOf3_ShouldReturnTrue()
     {
         Assert.True(NumberHelper.IsOddNumber(3));
+        Assert.False(NumberHelper.IsEvenNumber(5));
     }
 
     [Fact]
