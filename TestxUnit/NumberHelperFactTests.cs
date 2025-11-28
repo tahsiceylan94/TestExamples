@@ -12,7 +12,6 @@ public class NumberHelperFactTests
         new object[]{6,9,8},
         new object[]{5,6,7}
     };
-    };
     [Fact]
     public void IsOddNumber_ValueOf3_ShouldReturnTrue()
     {
