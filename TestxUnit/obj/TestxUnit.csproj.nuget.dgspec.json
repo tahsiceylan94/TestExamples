@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\TestExamples\\TestxUnit\\TestxUnit.csproj": {}
+    "/workspaces/TestExamples/TestxUnit/TestxUnit.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\TestExamples\\TestxUnit.Methods\\TestxUnit.Methods.csproj": {
+    "/workspaces/TestExamples/TestxUnit.Methods/TestxUnit.Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\TestExamples\\TestxUnit.Methods\\TestxUnit.Methods.csproj",
+        "projectUniqueName": "/workspaces/TestExamples/TestxUnit.Methods/TestxUnit.Methods.csproj",
         "projectName": "TestxUnit.Methods",
-        "projectPath": "C:\\GitHub\\TestExamples\\TestxUnit.Methods\\TestxUnit.Methods.csproj",
-        "packagesPath": "C:\\Users\\tahsi\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\TestExamples\\TestxUnit.Methods\\obj\\",
+        "projectPath": "/workspaces/TestExamples/TestxUnit.Methods/TestxUnit.Methods.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/TestExamples/TestxUnit.Methods/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tahsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -66,41 +58,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.415/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\GitHub\\TestExamples\\TestxUnit\\TestxUnit.csproj": {
+    "/workspaces/TestExamples/TestxUnit/TestxUnit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\TestExamples\\TestxUnit\\TestxUnit.csproj",
+        "projectUniqueName": "/workspaces/TestExamples/TestxUnit/TestxUnit.csproj",
         "projectName": "TestxUnit",
-        "projectPath": "C:\\GitHub\\TestExamples\\TestxUnit\\TestxUnit.csproj",
-        "packagesPath": "C:\\Users\\tahsi\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\TestExamples\\TestxUnit\\obj\\",
+        "projectPath": "/workspaces/TestExamples/TestxUnit/TestxUnit.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/TestExamples/TestxUnit/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tahsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\GitHub\\TestExamples\\TestxUnit.Methods\\TestxUnit.Methods.csproj": {
-                "projectPath": "C:\\GitHub\\TestExamples\\TestxUnit.Methods\\TestxUnit.Methods.csproj"
+              "/workspaces/TestExamples/TestxUnit.Methods/TestxUnit.Methods.csproj": {
+                "projectPath": "/workspaces/TestExamples/TestxUnit.Methods/TestxUnit.Methods.csproj"
               }
             }
           }
@@ -114,8 +99,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -154,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.415/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
